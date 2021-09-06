@@ -6,3 +6,7 @@ This repository contains 4 files
 2. Purchase Product.ipynb : Helps the user to purchase the product and creates Sales.json file to store  all purchased product data
 4. Record.json : It has record of all product their price quantity etc
 6. Sales.json : It has data of all the purchased product
+
+Social Media and other useful links
+1. Linkedin : https://www.linkedin.com/in/shubham-mishra-4a7554190/
+2. 
