@@ -9,6 +9,6 @@ This repository contains 4 files
 6. **Sales.json :** It has data of all the purchased product
 
 ## Social Media and other useful links
-1. Linkedin : https://www.linkedin.com/in/shubham-mishra-4a7554190/
-2. Instagram : https://www.instagram.com/shubhammishra9457/
-3. Email : shubhamishra583@gmail.com
+ **Linkedin :** https://www.linkedin.com/in/shubham-mishra-4a7554190/
+ **Instagram :** https://www.instagram.com/shubhammishra9457/
+ **Email :** shubhamishra583@gmail.com
